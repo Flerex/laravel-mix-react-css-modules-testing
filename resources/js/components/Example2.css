@@ -1,0 +1,7 @@
+.example {
+	color: deepskyblue;
+}
+
+body {
+	border: 1px solid deepskyblue; /* visual check for whether the style is imported */
+}

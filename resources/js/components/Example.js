@@ -5,7 +5,7 @@ import styles from './Example.scss';
 export default class Example extends Component {
     render() {
         return (
-            <div className={styles.example}>Testing component!</div>
+            <div className={styles.example}>Testing component (with SCSS)!</div>
         );
     }
 }

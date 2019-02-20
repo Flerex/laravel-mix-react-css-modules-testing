@@ -10,8 +10,11 @@
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
     </head>
     <body>
-        {{-- React component --}}
+        {{-- React component using SCSS --}}
         <div id="example"></div>
+
+        {{-- React component using CSS --}}
+        <div id="example2"></div>
 
         <script src="{{ asset('js/app.js') }}"></script>
     </body>
